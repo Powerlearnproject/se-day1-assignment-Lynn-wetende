@@ -80,6 +80,7 @@ The importance of prompt engineering lies in its ability to optimize AI interact
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt: Tell me about technology.
+
 Improved Prompt: Explain the impact of artificial intelligence on the healthcare industry, including its benefits and challenges.  
 
 Why the Improved Prompt is More Effective: The vague prompt is too broad and lacks direction, making it difficult for an AI to provide a focused response. It could result in an overwhelming amount of information covering various aspects of technology without addressing a specific need. On the other hand, the improved prompt is clear, specific, and concise. It narrows the topic to artificial intelligence in healthcare, specifies the key aspects to discuss (impact, benefits, and challenges), and ensures a well-structured and relevant response. By providing context and guiding the AI, this prompt increases the likelihood of receiving an informative, detailed, and useful answer.
