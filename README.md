@@ -8,12 +8,12 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Software engineering is a systematic approach to designing, developing, testing, deploying, and maintaining software applications. It applies engineering principles to software development, ensuring that the final product is efficient, reliable, scalable, and maintainable.
 Its importance includes;
-a. Building Reliable and Scalable Systems - This ensures software can handle increasing users and data without performance issues.
-b. Efficiency and Cost-Effectiveness - Structured development processes minimize time and resource waste.
-c. Security and Compliance - Helps mitigate cybersecurity risks by following best practices.
-d. Innovation and Competitive Advantage - Drives advancements in AI, cloud computing, fintech, and other fields.
-e. Enabling Digital Transformation - Essential for businesses adopting cloud computing, IoT, and big data analytics.
-f. Sustainability and Maintainability - Ensures that software can evolve with minimal technical debt.
+1. Building Reliable and Scalable Systems - This ensures software can handle increasing users and data without performance issues.
+2. Efficiency and Cost-Effectiveness - Structured development processes minimize time and resource waste.
+3. Security and Compliance - Helps mitigate cybersecurity risks by following best practices.
+4. Innovation and Competitive Advantage - Drives advancements in AI, cloud computing, fintech, and other fields.
+5. Enabling Digital Transformation - Essential for businesses adopting cloud computing, IoT, and big data analytics.
+6. Sustainability and Maintainability - Ensures that software can evolve with minimal technical debt.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
